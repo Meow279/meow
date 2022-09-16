@@ -1,10 +1,10 @@
 {
   "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "logo": https://telegra.ph/file/49e55d205b5ff89f2f86c.jpg,
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
-  "stack": "container",
+  "repository":https://github.com/Meow279/meow
+  "stack": "container,
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram String Session of assistant account",
